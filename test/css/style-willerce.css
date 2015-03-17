@@ -1,0 +1,17 @@
+.icon-excel {
+  background-image: url('../slice/excel.png');
+  height: 64px;
+  width: 64px;
+}
+
+.icon-project {
+  background-image: url('../slice/project.png');
+  height: 64px;
+  width: 64px;
+}
+
+.icon-word {
+  background-image: url('../slice/word.png');
+  height: 64px;
+  width: 64px;
+}

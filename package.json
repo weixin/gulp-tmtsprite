@@ -1,0 +1,56 @@
+{
+  "name": "gulp-tmtsprite",
+  "version": "0.0.1",
+  "description": "css sprite generator",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aslansky/css-sprite.git"
+  },
+  "homepage": "https://github.com/willerce/gulp-tmtsprite",
+  "bugs": {
+    "url": "https://github.com/willerce/gulp-tmtsprite/issues"
+  },
+  "author": {
+    "name": "Willerce Zenn",
+    "email": "willerce@gmail.com",
+    "url": "http://willerce.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec",
+    "coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage",
+    "coverage": "istanbul cover _mocha --report html -- -R spec",
+    "hint": "jshint lib/**/*.js index.js",
+    "style": "jscs test/*.js lib/**/*.js index.js"
+  },
+  "main": "./index.js",
+  "keywords": [
+    "sprites",
+    "sprite",
+    "coordinates",
+    "css",
+    "gulpfriendly",
+    "gruntplugin"
+  ],
+  "dependencies": {
+    "async": "^0.9.0",
+    "color": "^0.8.0",
+    "imageinfo": "^1.0.4",
+    "layout": "~2.2.0",
+    "lodash": "^3.3.1",
+    "lwip": "0.0.6",
+    "through2": "^0.6.3",
+    "vinyl": "^0.4.6",
+    "vinyl-fs": "1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "mocha-lcov-reporter": "^0.0.2",
+    "coveralls": "^2.11.2",
+    "istanbul": "^0.3.7",
+    "should": "^5.1.0"
+  }
+}
