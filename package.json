@@ -1,11 +1,11 @@
 {
   "name": "gulp-tmtsprite",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "css sprite generator",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aslansky/css-sprite.git"
+    "url": "https://github.com/willerce/gulp-tmtsprite.git"
   },
   "homepage": "https://github.com/willerce/gulp-tmtsprite",
   "bugs": {
@@ -41,7 +41,7 @@
     "imageinfo": "^1.0.4",
     "layout": "~2.2.0",
     "lodash": "^3.3.1",
-    "lwip": "0.0.6",
+    "node-lwip": "~0.0.2",
     "through2": "^0.6.3",
     "vinyl": "^0.4.6",
     "vinyl-fs": "1.0.0"
