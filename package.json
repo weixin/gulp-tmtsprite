@@ -1,6 +1,6 @@
 {
   "name": "gulp-tmtsprite",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "css sprite generator",
   "license": "MIT",
   "repository": {
@@ -43,8 +43,7 @@
     "lodash": "^3.3.1",
     "node-lwip": "~0.0.2",
     "through2": "^0.6.3",
-    "vinyl": "^0.4.6",
-    "vinyl-fs": "1.0.0"
+    "vinyl": "^0.4.6"
   },
   "devDependencies": {
     "mocha": "^2.1.0",
