@@ -1,7 +1,7 @@
 {
   "name": "gulp-tmtsprite",
-  "version": "0.0.14",
-  "description": "css sprite generator",
+  "version": "0.0.15",
+  "description": "CSS Sprite Generator",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -52,5 +52,5 @@
     "istanbul": "^0.3.7",
     "should": "^5.1.0"
   },
-  "readme": "README.md"
+  "readmeFilename": "README.md"
 }
