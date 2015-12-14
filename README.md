@@ -1,4 +1,4 @@
-## gulp-tmtsprite [![NPM version](https://badge.fury.io/js/gulp-tmtsprite.png)](http://badge.fury.io/js/grunt-timestamp) [![devDependency Status](https://david-dm.org/willerce/gulp-tmtsprite/dev-status.png?theme=shields.io)](https://david-dm.org/willerce/gulp-tmtsprite#info=devDependencies)
+## gulp-tmtsprite [![NPM version](https://badge.fury.io/js/gulp-tmtsprite.png)](http://badge.fury.io/js/gulp-tmtsprite) [![devDependency Status](https://david-dm.org/weixin/gulp-tmtsprite/dev-status.png?theme=shields.io)](https://david-dm.org/weixin/gulp-tmtsprite#info=devDependencies)
 
 > Automatically generate sprites image and CSS.   
 > (with retina @2x, @3x supported)
