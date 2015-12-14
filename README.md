@@ -16,7 +16,7 @@ npm install gulp-if --save
 
 ## Usage
 
-** gulpfile.js ** 
+**gulpfile.js** 
 
 ```javascript
 var gulpif = require('gulp-if');
@@ -40,7 +40,7 @@ gulp.src('./src/css/style-*.css')
 	background-image: url(../slice/test.png);
 }
 ```
-_**Tips:** try [gulp-LazyImageCSS]() if you are too lazy to type image `width` / `height` and more._
+_**Tips:** try [gulp-LazyImageCSS](https://www.npmjs.com/package/gulp-lazyimagecss/) if you are too lazy to type image `width` / `height` and more._
 
 
 **CSS Out** -> `style-index.css`
