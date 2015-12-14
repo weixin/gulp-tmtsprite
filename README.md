@@ -87,5 +87,5 @@ _**Tips:** Retina 3x is ready based on image name, like `icon-xxx@3x.png` with `
 
 ## Team & License
 
-* [Tencent TmT Team](https://github.com/orgs/weixin/teams/tmt)
+* [TmT Team](https://github.com/orgs/weixin/teams/tmt)
 * [MIT License](http://en.wikipedia.org/wiki/MIT_License)
