@@ -89,5 +89,5 @@ _**Tips:** 3x sprite is an option when needed._
 
 ## Team & License
 
-* [TmT Team](https://github.com/orgs/weixin/teams/tmt)
+* [TmT Team](https://github.com/orgs/tmt/people)
 * [MIT License](http://en.wikipedia.org/wiki/MIT_License)
