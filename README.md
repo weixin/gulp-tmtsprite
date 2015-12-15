@@ -74,9 +74,11 @@ _**Tips:** Retina 3x is ready based on image name, like `icon-xxx@3x.png` with `
 
 ![image-out](http://ww2.sinaimg.cn/large/644eac00gw1eyz3xvar6fj212y0krtdf.jpg)
 
+_**Tips:** 3x sprite is an option when needed._
+
 ## Know Issues
 
-* Slice images' size should be **even number**, like `24x26.png` not `23x27.png`
+* 2x slice images' size should be **even number**, like `24x26@2x.png` not `23x27@2x.png`
 
 ## Release History
 
