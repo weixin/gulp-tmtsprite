@@ -1,15 +1,15 @@
 {
   "name": "gulp-tmtsprite",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "description": "CSS Sprite Generator",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/willerce/gulp-tmtsprite.git"
+    "url": "https://github.com/weixin/gulp-tmtsprite.git"
   },
-  "homepage": "https://github.com/willerce/gulp-tmtsprite",
+  "homepage": "https://github.com/weixin/gulp-tmtsprite",
   "bugs": {
-    "url": "https://github.com/willerce/gulp-tmtsprite/issues"
+    "url": "https://github.com/weixin/gulp-tmtsprite/issues"
   },
   "author": {
     "name": "Willerce Zenn",
