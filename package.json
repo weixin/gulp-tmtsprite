@@ -1,6 +1,6 @@
 {
   "name": "gulp-tmtsprite",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "description": "CSS Sprite Generator",
   "license": "MIT",
   "repository": {

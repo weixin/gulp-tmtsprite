@@ -28,6 +28,19 @@ gulp.src('./src/css/style-*.css')
         	
 ```
 
+**Options**
+Custom your slice image path
+
+```javascript
+var gulpif = require('gulp-if');
+var tmtsprite = require('gulp-tmtsprite');
+
+gulp.src('./src/css/style-*.css')
+    .pipe(tmtsprite({slicePath: '../slice'}))
+    .pipe(gulpif('*.png', gulp.dest('./dist/sprite/'), gulp.dest('./dist/css/')));
+
+```
+
 ## Result
 
 **CSS In** -> `style-index.less`
