@@ -95,6 +95,7 @@ _**Tips:** 3x sprite is an option when needed._
 
 ## Release History
 
+* 0.0.21 Fix replacing of slice refference in different quote style
 * 0.0.14 Retina @3x supported
 * 0.0.12 @2x image background-postion fixed
 * 0.0.10 Duplicate slice using supported
