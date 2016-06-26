@@ -1,6 +1,6 @@
 {
   "name": "gulp-tmtsprite",
-  "version": "0.0.21",
+  "version": "0.0.22",
   "description": "CSS Sprite Generator",
   "license": "MIT",
   "repository": {
@@ -36,14 +36,14 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "async": "^0.9.0",
-    "color": "^0.8.0",
+    "async": "^2.0.0-rc.6",
+    "color": "^0.11.3",
     "imageinfo": "^1.0.4",
     "layout": "~2.2.0",
-    "lodash": "^3.3.1",
-    "node-lwip": "~0.1.0",
-    "through2": "^0.6.3",
-    "vinyl": "^0.4.6"
+    "lodash": "^4.13.1",
+    "node-lwip": "^0.2.1",
+    "through2": "^2.0.1",
+    "vinyl": "^1.1.1"
   },
   "devDependencies": {
     "mocha": "^2.1.0",
