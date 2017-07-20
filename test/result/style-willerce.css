@@ -1,0 +1,26 @@
+.icon-excel {
+  background-image: url("../sprite/style-willerce.png");  background-position: -0px -0px;;
+  height: 64px;
+  width: 64px;
+}
+
+.icon-project {
+  background-image: url("../sprite/style-willerce.png");  background-position: -64px -0px;;
+  height: 64px;
+  width: 64px;
+}
+
+.icon-word {
+  background-image: url("../sprite/style-willerce.png");  background-position: -0px -64px;;
+  height: 64px;
+  width: 64px;
+}
+
+.icon-word_2 {
+  background-image: url("../sprite/style-willerce.png");  background-position: -0px -64px;;
+  height: 64px;
+  width: 64px;
+}
+
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2),only screen and (min--moz-device-pixel-ratio: 2),only screen and (min-resolution: 240dpi) {}
