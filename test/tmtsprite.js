@@ -5,11 +5,15 @@ var sprite = require('../lib/sprite');
 var path = require('path');
 var vfs = require('vinyl-fs');
 var through2 = require('through2');
-var lwip = require('lwip');
 var noop = function () {
 };
 
-require('mocha');
+vfs.src('./css/style-*.css')
+   .pipe(sprite())
+   .pipe(vfs.dest('./output'))
+   .on('data', noop);
 
-describe('css-sprite (lib/sprite.js)', function () {
-});
+// require('mocha');
+//
+// describe('css-sprite (lib/sprite.js)', function () {
+// });
